@@ -23,7 +23,7 @@ etiketler: [uygulama, brief, kabul-kriterleri]
 2. **Karanlık desen yok:** sahte stok/sayaç, önceden işaretli onay kutuları, gizli maliyet, utandırıcı ret metni yok. Bkz. [[Satın Alma Psikolojisi]].
 3. **Gerçek ürün görseli:** markalı ürünler AI ile yeniden çizilmez. Kampanya atmosferi için AI kullanılırsa "Yapay zekâ ile oluşturulmuştur" etiketi (Türk rakiplerde gözlenen uygulama, bkz. [[Türkiye Sneaker Mağazaları]]).
 4. **Tek vurgu rengi** (bordo `#741E32`) yalnızca birincil satın alma eylemlerinde ve seçili durumlarda.
-5. **Erişilebilirlik:** WCAG 2.2 AA. Klavye ile tüm akış tamamlanabilir; odak görünür; dokunma hedefi ≥44 px.
+5. **Erişilebilirlik:** WCAG 2.2 AA. Türkiye'de 2025/10 sayılı Genelge e-ticaret siteleri için WCAG 2.2 uyumuna 21.06.2027'ye kadar süre tanıyor (bkz. [[E-ticaret UX Verileri]]). Klavye ile tüm akış tamamlanabilir; odak görünür; dokunma hedefi ≥44 px.
 6. **Performans bütçesi:** mobil LCP < 2,5 sn, INP < 200 ms, CLS < 0,1; ana sayfa ilk yük ≤ 1,2 MB; render'ı engelleyen CSS tek dosya + kritik CSS satır içi.
 7. **Yasal zorunluluklar** yayın öncesi tamam: [[Türkiye E-ticaret Pazarı]] içindeki yasal kontrol listesi.
 8. Rakip notlarındaki desenler **uyarlanır, kopyalanmaz**; başka markaların görsel ve metinleri kullanılmaz.

@@ -57,6 +57,6 @@ etiketler: [desen, plp, filtre]
 
 ## Gözlenen örnekler
 
-[[Zalando]], [[ASOS]] (filtre UX), [[Trendyol]], [[Hepsiburada]] (Türk alıcının alışkın olduğu filtre düzeni), [[Nike Türkiye]], [[adidas Türkiye]] (beden ızgarası), [[SSENSE]] (minimal kart).
+[[Zalando]] (kalıp uyarısı, filtre), [[Foot Locker]] (beden filtresinde ürün sayısı, EU/UK/US seçici), [[FLO]] ve [[Hepsiburada]] (yatay filtre çipleri, aktif filtre sayısı: Türk alıcının alışkın olduğu düzen), [[Trendyol]], [[New Balance Türkiye]] (filtrelerde ürün sayısı), [[Aimé Leon Dore]] ve [[Stüssy]] (minimal kart: yalnızca ad + fiyat).
 
 İlgili: [[E-ticaret UX Verileri]] · [[Satın Alma Psikolojisi]] (Hick yasası, seçim yükü)

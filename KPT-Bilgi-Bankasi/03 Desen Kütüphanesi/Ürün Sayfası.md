@@ -38,7 +38,7 @@ etiketler: [desen, pdp]
 > [!bug] Mevcut hata
 > Beden seçilince fiyat güncellenmiyor; sepette farklı fiyat çıkıyor (38.5: 14.674 TL, 39.5: 14.480 TL, 40: 14.025 TL). Bkz. [[KPT Store Denetimi]].
 
-Doğru davranış: beden kutusunda küçük satır fiyat farkı ("+455 TL") veya kutuda doğrudan fiyat (StockX/GOAT deseni, bkz. [[StockX]], [[GOAT]]); seçimde ana fiyat **anında** güncellenir ve `aria-live="polite"` ile duyurulur; sepete eklenen fiyat ekranda görülenle birebir aynıdır. En iyisi: tek fiyat politikası.
+Doğru davranış: beden kutusunda küçük satır fiyat farkı ("+455 TL") veya kutuda doğrudan fiyat (StockX/GOAT'ın bilinen deseni; bu siteler bot korumasıyla engellendiği için incelenemedi, önerilen tasarım: [[Foot Locker]] ve [[On]] notlarındaki "öneri" bölümü); seçimde ana fiyat **anında** güncellenir ve `aria-live="polite"` ile duyurulur; sepete eklenen fiyat ekranda görülenle birebir aynıdır. En iyisi: tek fiyat politikası.
 
 ## Yapılandırılmış veri
 

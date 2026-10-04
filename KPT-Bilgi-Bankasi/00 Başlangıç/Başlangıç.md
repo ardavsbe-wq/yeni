@@ -60,7 +60,17 @@ Bu kasa, **KPT Store**'u (Türkiye'de sneaker, giyim ve aksesuar satan OpenCart 
 
 ## Rakip analizleri
 
-Liste ve erişim durumları: [[Rakip Karşılaştırma Matrisi]].
+Liste, erişim durumları ve desen karşılaştırması: [[Rakip Karşılaştırma Matrisi]].
+
+- **Marka siteleri (TR):** [[Nike Türkiye]] · [[New Balance Türkiye]] · [[adidas Türkiye]]
+- **Türkiye:** [[Türkiye Sneaker Mağazaları]] · [[Trendyol]] · [[Hepsiburada]] · [[FLO]] · [[Boyner]] · [[Amazon Türkiye]]
+- **Global sneaker butikleri:** [[END. Clothing]] · [[Sneakersnstuff]] · [[Kith]]
+- **Sneaker platformları ve performans:** [[Foot Locker]] · [[On]]
+- **Moda ve lüks:** [[Farfetch]] · [[Zalando]]
+- **Streetwear ve tasarım liderleri:** [[Aimé Leon Dore]] · [[Represent]] · [[Stüssy]]
+
+> [!note] Erişim
+> Birçok büyük site otomatik tarayıcıyı engelledi; engel aşılmadı. Engellenen sitelerin notları ikincil kaynaklara dayanır ve `erişim: engellendi` olarak işaretlidir.
 
 ## Uygulama rehberi
 
