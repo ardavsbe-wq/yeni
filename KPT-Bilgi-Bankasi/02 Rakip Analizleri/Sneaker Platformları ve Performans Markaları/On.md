@@ -24,7 +24,7 @@ etiketler: [rakip, performans-markasi, teknik-urun-anlatimi, beden-secici]
 |---|---|---|
 | Ana metin / birincil buton | #000000 | Metin, "Add to bag", seçili ölçek dilimi |
 | Zemin | #FFFFFF | Sayfa |
-| Ürün görsel zemini | açık gri degrade (#E5E5E5 civarı, gözle) | Kart ve galeri |
+| Ürün görsel zemini | açık gri degrade (hex ölçülmedi) | Kart ve galeri |
 | Rozet metni | #995C00 | "BESTSELLER", "NEW COLOR" |
 | İndirim | #ED0000 | İndirimli fiyat |
 | İkincil metin | #666666 | Ölçek uç etiketleri (LOW / MAX) |
@@ -62,12 +62,12 @@ etiketler: [rakip, performans-markasi, teknik-urun-anlatimi, beden-secici]
   - Her beden ~56px yüksekliğinde bir satır, numara mono fontta. **Tükenen bedenlerde** satırda gri "Notify me" ve sağda zil ikonu var. Bu, gizlemek yerine stok bildirimi teklif ediyor.
   - Panelin altındaki sabit satırda solda cetvel ikonu + "Size chart", sağda **"True to size"** yazıyor.
   - Seçimden sonra buton "9 ⌄" olarak kalıyor.
-- **SIZE & FIT akordeonu:** "Regular. True to size." ve "Size Guide - Mens Shoes" tablosu. Satırlar **US / BR / MX / EU / JP / UK**; ilk sütun #D9D9D2 tonunda başlık, satırlar zebra. Örnek: US 9 = EU 42.5 = UK 8.5 = JP 27.
+- **SIZE & FIT akordeonu:** "Regular. True to size." ve "Size Guide - Mens Shoes" tablosu. Satırlar **US / BR / MX / EU / JP / UK**; ilk sütun gri zeminli başlık, satırlar zebra. Örnek: US 9 = EU 42.5 = UK 8.5 = JP 27.
 - Diğer akordeonlar: SHIPPING & RETURNS ("Free shipping on all orders over $50", "Free returns within 30 days", sınırlı ürünlerde değişim yok) ve MATERIALS & TRANSPARENCY (Polyester, Country of origin: Indonesia).
 - **Teknik özellik şeridi:** 4 eşit sütun, her birinde ince çizgili ikon, mono font etiket ve büyük değer (~28px/700). Etiketin yanında gri daire içinde "i" ("What does … mean?"). Örnekler: ROAD RUNNING STYLE **Smooth** (dalga ikonu), LACING **Standard**, HEEL TO TOE DROP **6 mm** (topuk-burun profil çizimi), WEIGHT **273 g** (tüy ikonu). Altlarında 1px çizgi.
 - **Activities:** "Running | Road Running | Walking | Treadmill" (24px metin, dikey çizgiyle ayrılmış).
 - **Key features:** 7 madde. Son madde "Support: Neutral".
-- **Ölçekler (sağ sütun):** Cushioning, Responsiveness, Stability. Her biri 5 yatay segmentten oluşuyor: pasif segment 1px çizgi, aktif segment ~6px kalın siyah. Uç etiketleri mono fontta: LOW–MAX, GENTLE–MAX, NEUTRAL–STABLE. Değerler: Cushioning Medium (3/5), Responsiveness Medium (3/5), Stability Medium-High (4/5).
+- **Ölçekler (sağ sütun):** Cushioning, Responsiveness, Stability. Her biri 5 yatay segmentten oluşuyor: pasif segment 1px çizgi, aktif segment yaklaşık 6px kalın siyah (tahmin). Uç etiketleri mono fontta: LOW–MAX, GENTLE–MAX, NEUTRAL–STABLE. Değerler: Cushioning Medium (3/5), Responsiveness Medium (3/5), Stability Medium-High (4/5).
 - **Technologies:** küçük doku görseli + mono font ad çipleri ("CLOUDTEC PHASE™", "HELION™"). Açıklamaları sayfada metin olarak var.
 - Çapraz satış: "Viewed together" karuseli (kartlarda yine kullanım amacı satırı var).
 
@@ -82,7 +82,7 @@ etiketler: [rakip, performans-markasi, teknik-urun-anlatimi, beden-secici]
 - Akış (koşu versiyonu): "Road running shoe finder / Every runner moves differently. Find the shoe that moves like you." ve "Find my perfect running shoe". **İlk soru cinsiyet ve beden:** "Select the gender and shoe size you're shopping for" (Women's/Men's + 5…11 beden kutuları). Toplam **4 adım**, ilerleme göstergesi "1/4". Sonraki sorular otomasyonla geçilemedi; sonuç ekranı incelenemedi.
 
 ## Sepet ve satın alma kolaylığı
-- **Sepete ekleme geri bildirimi:** CTA alanının üstünde siyah bir kart açılıyor (~510×270px, 8px radius). İçinde "Added to your bag" (20px beyaz) ve × butonu; küçük görsel; "Cloudsurfer Next / Mens / White | White / 9" ve sağda "$150.00". Altta iki hap buton yan yana: beyaz çerçeveli "Your bag (1)" ve beyaz dolgulu "Checkout". Header'daki çanta ikonuna siyah "1" rozeti ekleniyor. Sayfa değişmiyor.
+- **Sepete ekleme geri bildirimi:** CTA alanının üstünde siyah bir kart açılıyor (yaklaşık 510×270px, yuvarlatılmış köşeler; tahmin). İçinde "Added to your bag" (20px beyaz) ve × butonu; küçük görsel; "Cloudsurfer Next / Mens / White | White / 9" ve sağda "$150.00". Altta iki hap buton yan yana: beyaz çerçeveli "Your bag (1)" ve beyaz dolgulu "Checkout". Header'daki çanta ikonuna siyah "1" rozeti ekleniyor. Sayfa değişmiyor.
 - Taksit: Klarna 4 ödeme satırı CTA'nın altında.
 
 ![[on-sepete-eklendi.jpg]]

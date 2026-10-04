@@ -13,7 +13,7 @@ etiketler: [rakip, pazar-yeri, türkiye, jakob-yasası]
 # Amazon Türkiye
 
 > [!summary] Özet
-> Amazon'un 2018'den beri Türkiye'deki pazar yeri; Prime ve hızlı teslimatla konumlanıyor. Gözlenen en güçlü 3 yanı: fiyat iddiasını dönemle veren rozet ("30 günün en düşük fiyatı"), kuruşu üst simge yapan net fiyat tipografisi, yorumlarda yıldız dağılımı histogramı + "Doğrulanmış Alışveriş" + varyant bilgisi. KPT için en değerli ders: indirim gösteriminde **yüzde rozeti + eski fiyat üstü çizili + dönemli fiyat iddiası** üçlüsü Türk alıcının artık aradığı şeffaflık seviyesi.
+> Amazon'un Türkiye pazar yeri; Prime ve ertesi gün teslimatla konumlanıyor. Gözlenen en güçlü 3 yanı: fiyat iddiasını dönemle veren rozet ("30 günün en düşük fiyatı"), kuruşu üst simge yapan net fiyat tipografisi, yorumlarda yıldız dağılımı histogramı + "Doğrulanmış Alışveriş" + varyant bilgisi. KPT için en değerli ders: indirim gösteriminde **yüzde rozeti + eski fiyat üstü çizili + dönemli fiyat iddiası** üçlüsü Türk alıcının artık aradığı şeffaflık seviyesi.
 
 > [!warning] Erişim: kısmi
 > Mobil (390×844) ana sayfa bir kez tam yüklendi (HTTP 200) ve **[G]** gözlemlerin tamamı bu yakalamadan. Masaüstünde "Alışverişe devam etmek için aşağıdaki düğmeye tıklayın / Alışverişe Devam Et" ara sayfası çıktı (HTTP 202; butona basılmadı); ikinci normal denemede masaüstü ve mobil arama sayfası **"Üzgünüz / İsteğinizi işlemeye çalıştığımızda bir hata oluştu."** (HTTP 503) döndü; WebFetch de 503 aldı. Kural gereği bırakıldı: **PLP ve PDP doğrudan incelenemedi.** **[İ]** = Amazon.com.tr Google Play görselleri (tarihi belirsiz, eski tasarım).
@@ -32,7 +32,7 @@ etiketler: [rakip, pazar-yeri, türkiye, jakob-yasası]
 | Fırsat kırmızısı | #CC0C39 | "%14 İndirim" rozet zemini, "30 günün en düşük fiyatı" metni |
 | Header | #131921 / #232F3E | Üst çubuk / navigasyon şeridi |
 | Birincil CTA sarısı | #FFD814 | Çerez "Kabul Et" vb. |
-| Arama butonu | #FEBD69 | Arama "Git" |
+| Açık turuncu | #FEBD69 | Tek öğe; arama "Git" butonu olması muhtemel (tahmin) |
 | Açık zemin | #F0F2F2 | Bölüm zeminleri |
 
 - Font: Arial (metin düğümlerinin büyük çoğunluğu), başlıklarda "Amazon Ember Modern Display". Boyutlar: 12px ve 10px (kart metni), 14px, 15px, 18px (raf başlıkları), 24px; ağırlık 400 ve 700.

@@ -47,7 +47,7 @@ etiketler: [rakip, pazar-yeri, türkiye, jakob-yasası]
 - Plus üyelik kartları: "İlk aya özel üyelik 1 TL", "Her ay ücretsiz 10 kargo hakkı" (trendyol pass), "Trendyol Plus'a özel fiyatlar", "3 ay Youtube Premium üyeliği".
 
 ## Kategori sayfası (PLP)
-incelenemedi: 403. (tahmin, doğrulanmalı) Bilinen düzen: masaüstünde sol sütunda çoklu seçimli filtreler (Marka, Beden, Renk, Fiyat aralığı, Cinsiyet, Satıcı, Ürün puanı), üstte "Önerilen / En düşük fiyat / En yüksek fiyat / En çok satan / En favoriler / En yeniler / En çok değerlendirilen" sıralaması; kartta "Kargo Bedava", "Hızlı Teslimat" ve kupon rozetleri, yıldız + yorum sayısı.
+incelenemedi: 403. (tahmin, doğrulanmalı) Masaüstünde sol sütunda çoklu seçimli Marka/Beden/Renk/Fiyat/Cinsiyet filtreleri; kartta "Kargo Bedava"/"Hızlı Teslimat" rozetleri, yıldız + yorum sayısı.
 
 ## Ürün sayfası (PDP)
 - **Yorum yapısı [İ]:** ürün kartında 5 yıldız + **"(672)"**; yorumda yeşil **"Ürünü satın aldı ✓"**, maskelenmiş ad **"Ş..... A......"**, tarih-saat **"3 Kasım 2025 | 15:09"**, **"• Elite Üye"** etiketi; üstte AI rozetli **"Değerlendirme Özeti"** kutusu ("Kullanıcılar tarafından … vurgulanmıştır." biçiminde 2–3 cümle).
