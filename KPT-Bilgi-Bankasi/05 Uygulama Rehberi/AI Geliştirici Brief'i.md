@@ -39,7 +39,8 @@ etiketler: [uygulama, brief, kabul-kriterleri]
 | `kitle` | enum | Erkek, Kadın, Unisex, Çocuk (Bebek/Küçük/Büyük çocuk alt kırılımı opsiyonel) |
 | `kategori` | enum | Sneaker, Koşu, Basketbol, Yürüyüş, Outdoor, Halı saha, Terlik & Sandalet, Bot, Mont... |
 | `beden_sistemi` | enum | EU, EU-adidas (1/3), US, UK |
-| `beden_eu_norm` | ondalık | Filtre için normalize EU değeri (36 2/3 → 36.67) |
+| `beden_eu_norm` | ondalık | Ondalık EU değeri (36 2/3 → 36.67) |
+| `beden_filtre_grubu` | tam sayı | EU'nun tam kısmı: 41, 41⅓, 41.5 → 41 (markalar arası karşılaştırma için) |
 | `beden_cm` | ondalık | Marka tablosundan |
 | `kalip` | enum + metin | dar / normal / geniş + not ("Yarım numara büyük al") |
 | `stil_kodu` | metin | Üretici kodu (ör. U9060EEE) |

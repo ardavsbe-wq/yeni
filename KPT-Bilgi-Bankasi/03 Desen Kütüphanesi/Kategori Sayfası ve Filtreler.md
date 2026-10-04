@@ -23,7 +23,7 @@ etiketler: [desen, plp, filtre]
 
 | Filtre | UI | Kural |
 |---|---|---|
-| Numara | **Beden ızgarası** (44×44 px kutular, 5–6 sütun) | Normalize EU bedenleri; adidas kesirli bedenleri (36 2/3) en yakın gruba eşlenir veya ayrı "adidas bedenleri" alt grubu; çocuk ve yetişkin ayrı başlıklar. Kullanıcının "Numaranla başla"da seçtiği beden hatırlanır ve varsayılan filtre olur. Bkz. [[Ayakkabı Beden ve Kalıp]] |
+| Numara | **Beden ızgarası** (44×44 px kutular, 5–6 sütun) | **Tam numara grubu**: "41" seçimi 41, 41⅓ ve 41.5'i getirir (aynı US Erkek 8; Nike'ta EU 41, adidas'ta 41⅓, NB'de 41.5; bu gruplama 12 satırın 11'inde markaları aynı gruba düşürüyor, bkz. [[Ayakkabı Beden ve Kalıp]]); çocuk ve yetişkin ayrı başlıklar; katalogdaki geçersiz değerler (ör. `43 2/3`) temizlenir. Kullanıcının "Numaranla başla"da seçtiği beden hatırlanır ve varsayılan filtre olur. Bkz. [[Ayakkabı Beden ve Kalıp]] |
 | Renk | **Renk örnekleri** (28 px daire + etiket) | ~14 renk ailesi: Siyah, Beyaz, Gri, Bej/Krem, Kahverengi, Lacivert, Mavi, Yeşil, Kırmızı, Bordo, Pembe, Mor, Sarı/Turuncu, Çok renkli. Ham tedarikçi renk adı yalnızca PDP'de |
 | Marka | Onay kutuları, ürün sayısıyla ("Nike (64)") | 6'dan fazlaysa arama kutulu liste |
 | Kategori/Kullanım | Onay kutuları | Yalnızca aktif gruba ait kategoriler (Ayakkabı grubunda Mont, Oyun Kartları çıkmaz) |
